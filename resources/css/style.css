@@ -3,21 +3,25 @@
   font-family: Helvetica;
 }
 
-.main .header {
+.gneral {
+  background-image:url("../images/the-flatiron-building.png");
+}
+
+.main .general {
   background-image:url("../images/the-flatiron-building.png");
   color: white;
 
 }
 
-.main .header p a {
+.main .general p a {
   color: white;
 }
 
-.main .header p {
+.main .general p {
   font-size: 18px;
 }
 
-.main .header h2 {
+.main .general h2 {
   font-weight: bold;
   font-size: 23px;
 }
